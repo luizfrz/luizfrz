@@ -8,7 +8,8 @@ Welcome to my GitHub profile! Currently, I'm pursuing a degree in Software Engin
 ## Portuguese
 Seja bem-vindo ao meu perfil do GitHub! Atualmente, estou cursando Engenharia de Software e tenho uma paixão por jogos, desenvolvendo alguns no GML (GameMaker Studio) como um hobby. Meu objetivo é me tornar um desenvolvedor full-stack. Estudo as linguagens Python e JavaScript. Possuo um nível intermediário de conhecimento em inglês e um nível básico em alemão.
 
-![KuttaChutiyaGIF](https://github.com/luizfrz/luizkaz/assets/126346291/1ad81944-4f82-4440-af4c-07aaea0b93cd)
+![image](https://github.com/luizfrz/luizfrz/assets/126346291/e3904e4e-6997-4a3b-a7fa-125dc01c058e)
+
 
 
 ## Programming languages and Development tools 
@@ -16,11 +17,13 @@ Seja bem-vindo ao meu perfil do GitHub! Atualmente, estou cursando Engenharia de
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" widht="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" widht="40" height="40" />
 
+ 
+
 ## Contact
 <a href="https://www.linkedin.com/in/luiz-frança-127262269" target="_blank"><img loading="lazy" src="https://cdn-icons-png.flaticon.com/512/61/61109.png" target="_blank" width="40" height="40"></a> <a href="https://instagram.com/luizzzz62?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank"><img loading="lazy" src="https://cdn.icon-icons.com/icons2/726/PNG/512/instagram_f_icon-icons.com_62685.png" target="_blank" width="40" height="40"></a>
 
 ## Thanks/Obrigado!
 
-
+ ![IggyJoJoGIF](https://github.com/luizfrz/luizfrz/assets/126346291/d5855520-d4c5-47a8-bd28-855872f51309)
 
 
