@@ -3,10 +3,10 @@ Hey, Devs!
 <img src="https://i.pinimg.com/750x/ab/81/a6/ab81a6355bc5893cd89dd0394e04f2da.jpg" width="40" height="40">
 
 ## English
-Hello my name is Luis! I'm currently studying software engineering, I make some games in gml (gamemarker) however just for hooby, my focus is to become a full-stack developer. I also know a little English considered intermediate and learning German considered basic level.
+Welcome to my GitHub profile! Currently, I'm pursuing a degree in Software Engineering and have a passion for games, developing some in GML (GameMaker Studio) as a hobby. My goal is to become a full-stack developer. I study the Python and JavaScript languages. I have an intermediate level of proficiency in English and a basic level in German. 
 
 ## Portuguese
-Olá, me chamo luiz! atualmente estou cursando engenharia de software, faço alguns jogos no gml (gamemarker) todavian só por hooby, meu foco é ser tornar um desenvolvedor full-stack. também sei um pouco de inglês considerado intermediário e apredendo alemão considerado nivel básico.
+Seja bem-vindo ao meu perfil do GitHub! Atualmente, estou cursando Engenharia de Software e tenho uma paixão por jogos, desenvolvendo alguns no GML (GameMaker Studio) como um hobby. Meu objetivo é me tornar um desenvolvedor full-stack. Estudo as linguagens Python e JavaScript. Possuo um nível intermediário de conhecimento em inglês e um nível básico em alemão.
 
 ![KuttaChutiyaGIF](https://github.com/luizfrz/luizkaz/assets/126346291/1ad81944-4f82-4440-af4c-07aaea0b93cd)
 
@@ -21,5 +21,6 @@ Olá, me chamo luiz! atualmente estou cursando engenharia de software, faço alg
 
 ## Thanks/Obrigado!
 
-![IggyJoJoGIF](https://github.com/luizfrz/luizkaz/assets/126346291/4bd11ffb-b0a5-4c9b-9267-f85ae8fb9738)
+![IggyJoJoGIF (2)](https://github.com/luizfrz/luizfrz/assets/126346291/48aa7509-e002-4c17-ba01-2da83431a478)
+
 
