@@ -21,6 +21,6 @@ Seja bem-vindo ao meu perfil do GitHub! Atualmente, estou cursando Engenharia de
 
 ## Thanks/Obrigado!
 
-![IggyJoJoGIF (2)](https://github.com/luizfrz/luizfrz/assets/126346291/48aa7509-e002-4c17-ba01-2da83431a478)
+
 
 
