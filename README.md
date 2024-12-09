@@ -12,7 +12,8 @@ Feel free to check out my repositories to learn more about my projects!_
           
 
 ## Contact
+### Email: `luizfranca2005@gmail.com` ✉️
 <a href="https://www.linkedin.com/in/luiz-frança-127262269" target="_blank"><img loading="lazy" src="https://cdn-icons-png.flaticon.com/512/61/61109.png" target="_blank" width="40" height="40"></a> <a href="https://instagram.com/luizzzz62?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank"><img loading="lazy" src="https://cdn.icon-icons.com/icons2/726/PNG/512/instagram_f_icon-icons.com_62685.png" target="_blank" width="40" height="40"></a>
-
+# my contributions
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luizfrz&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
