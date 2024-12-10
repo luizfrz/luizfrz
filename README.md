@@ -1,12 +1,14 @@
+# Hey there! Welcome to my GitHub profile!
+_I’m a Software Engineering student and right now I’m focused on building databases with PHP. I’m also picking up Python and JavaScript, and I speak English pretty well.
+I know my way around Microsoft Office and I can handle tough challenges. I’ve got some experience in leading projects and I like to work in an agile way.
+Feel free to check out my repositories to learn more about my projects!_
+
+
 <a href="https://github.com/luizfrz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfrz&show_icons=true&theme=tokyonight&bg_color=000000&text_color=ffffff&locale=pt-br"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfrz&layout=compact&theme=tokyonight&bg_color=000000&text_color=ffffff&locale=pt-br"/>
 </a>
 
-# Hey there! Welcome to my GitHub profile!
-_I’m a Software Engineering student and right now I’m focused on building databases with PHP. I’m also picking up Python and JavaScript, and I speak English pretty well.
-I know my way around Microsoft Office and I can handle tough challenges. I’ve got some experience in leading projects and I like to work in an agile way.
-Feel free to check out my repositories to learn more about my projects!_
 ## Programming languages and Development tools 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="50px" /> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50px"  />
