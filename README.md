@@ -1,13 +1,30 @@
-# Hey there! Welcome to my GitHub profile!
-_I’m a Software Engineering student and right now I’m focused on building databases with PHP. I’m also picking up Python and JavaScript, and I speak English pretty well.
-I know my way around Microsoft Office and I can handle tough challenges. I’ve got some experience in leading projects and I like to work in an agile way.
-Feel free to check out my repositories to learn more about my projects!_
+# Hey there, welcome to my GitHub profile
+## Resume 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## Programming languages  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="50px" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50px"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50px" />
+<p align="left"> 
+ My name is Luiz, and I'm currently studying Software Engineering. I'm interested in languages like Python, particularly for data analysis, as well as PHP for building databases (Python's also been helpful for that) and JavaScript. While my main focus isn't web development (front-end), I occasionally jump in to practice a bit.
+In my free time, I enjoy gaming, especially RPGs and action games, but I'm into all kinds of genres. I’m also fluent in English.
+This is just a quick overview of me. Feel free to check out my work on GitHub to see my projects :)
+</p>
+<h2 align="center">Main development ⚙️</h2>
+<p align="right">
+  <pre>
+$languages = array(
+    "data analysis" => "python",
+    "Database" => "PHP",
+    "web development" => "javascript",
+    "processing..." => "studying it",
+);
+var_dump($languages);
+</p></code></pre
+# Contact 
 
-# Contact
-<a href="https://www.linkedin.com/in/luiz-frança-127262269" target="_blank"><img loading="lazy" src="https://cdn-icons-png.flaticon.com/512/61/61109.png" target="_blank" width="40" height="40"></a> <a href="https://instagram.com/luizzzz62?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank"><img loading="lazy" src="https://cdn.icon-icons.com/icons2/726/PNG/512/instagram_f_icon-icons.com_62685.png" target="_blank" width="40" height="40"></a>
-# My contributions
+**Email:** `Luizfranca2005@gmail.com`
+
+**Linkedin:** `https://www.linkedin.com/in/luiz-fran%C3%A7a-127262269/`
+
+**Portfolio:** `` 
+# My contributions 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luizfrz&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
