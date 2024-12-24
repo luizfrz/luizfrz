@@ -1,4 +1,4 @@
-# Hey there, welcome to my GitHub profile
+# Hey there, welcome to my GitHub profile 👋
 ## Resume 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -11,9 +11,9 @@ This is just a quick overview of me. Feel free to check out my work on GitHub to
 <p align="right">
   <pre>
 $languages = array(
-    "data analysis" => "python",
-    "Database" => "PHP",
-    "web development" => "javascript",
+    "processing..." => "python",
+    "studying... " => "PHP",
+    "studying... " => "javascript",
     "processing..." => "studying it",
 );
 var_dump($languages);
