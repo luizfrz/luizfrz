@@ -10,10 +10,9 @@ This is just a quick overview of me. Feel free to check out my work on GitHub to
 <p align="right">
   <pre>
 $languages = array(
-    "processing..." => "python",
-    "studying... " => "PHP",
-    "studying... " => "javascript",
-    "processing..." => "studying it",
+    "language" => "python",
+    "language" => "PHP",
+    "language " => "javascript",
 );
 var_dump($languages);
 </p></code></pre
