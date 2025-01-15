@@ -12,7 +12,7 @@ This is just a quick overview of me. Feel free to check out my work on GitHub to
 $languages = array(
     "language" => "python",
     "language" => "PHP",
-    "language " => "javascript",
+    "language" => "javascript",
 );
 var_dump($languages);
 </p></code></pre
