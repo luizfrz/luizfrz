@@ -22,7 +22,7 @@ var_dump($languages);
 
 **Linkedin:** `https://www.linkedin.com/in/luiz-fran%C3%A7a-127262269/`
 
-**Portfolio:** `` 
+**Portfolio:** ` ` 
 # My contributions 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luizfrz&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
