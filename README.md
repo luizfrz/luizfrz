@@ -38,7 +38,6 @@ print(tools[1])
 # My contributions 🏆
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizfrz&show_icons=true&theme=dark)
 
 <p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizfrz&theme=transparent"/>
