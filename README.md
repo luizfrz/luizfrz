@@ -1,6 +1,5 @@
-# Hey there, welcome to my GitHub profile 
+<a href="https://github.com/luizfrz"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=Hey+there,+welcome+to+my+GitHub+profile&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/></a>
 ## Resume 
-
 <p align="left"> 
  My name is Luiz, and I'm currently studying Software Engineering. I'm interested in languages like Python, particularly for data analysis, as well as PHP for building databases (Python's also been helpful for that) and JavaScript. While my main focus isn't web development (front-end), I occasionally jump in to practice a bit.
 In my free time, I enjoy gaming, especially RPGs and action games, but I'm into all kinds of genres. I’m also fluent in English.
