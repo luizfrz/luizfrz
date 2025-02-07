@@ -8,18 +8,21 @@ This is just a quick overview of me. Feel free to check out my work on GitHub to
 
 <h2 align="center">Main development ⚙️</h2>
 <p align="right">
-  <pre>
+<div>
+ 
+```PHP
 $languages = array(
     "language" => "python",
     "language" => "PHP",
     "language" => "javascript",
 );
-var_dump($languages);
-<br>
-tools = ["vscode", "Git"]
-print(tools[1])
-
-</p></code></pre
+```
+ </div>
+ 
+```Python
+tools = ["Git"]
+print(tools[0])
+```
    
 # Contact 
 
@@ -36,8 +39,6 @@ print(tools[1])
 
 # My contributions 🏆
 
-
-
 <p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizfrz&theme=transparent"/>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luizfrz&theme=transparent&utcOffset=-3"/>
@@ -46,3 +47,51 @@ print(tools[1])
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luizfrz&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+<details>
+<summary>Dev Daily 💻</summary>
+ 
+```mermaid
+graph TD;
+    Dev-->Wake-up;
+    Dev-->write-code;
+    Dev-->fix-bugs-repeat;
+    Dev-->FrustratedWithErrors;
+``` 
+</details>
+<details>
+ <summary>3D ♟️</summary>
+ 
+```stl
+solid cube_corner
+  facet normal 0.0 -1.0 0.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 1.0 0.0 0.0
+      vertex 0.0 0.0 1.0
+    endloop
+  endfacet
+  facet normal 0.0 0.0 -1.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 0.0 1.0 0.0
+      vertex 1.0 0.0 0.0
+    endloop
+  endfacet
+  facet normal -1.0 0.0 0.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 0.0 0.0 1.0
+      vertex 0.0 1.0 0.0
+    endloop
+  endfacet
+  facet normal 0.577 0.577 0.577
+    outer loop
+      vertex 1.0 0.0 0.0
+      vertex 0.0 1.0 0.0
+      vertex 0.0 0.0 1.0
+    endloop
+  endfacet
+endsolid
+```
+ 
+</details>
