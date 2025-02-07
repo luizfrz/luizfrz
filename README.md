@@ -267,7 +267,7 @@ endsolid
     </tr>
   </tbody>
 </table><h3 align="center">
-<a href="https://o.charles-chrismann.fr/chess/new">Reset Game</a>
+<a href="https://o.luizfrz.fr/chess/new">Reset Game</a>
 </h3>
 
 </details>
