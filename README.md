@@ -53,10 +53,11 @@ print(tools[0])
  
 ```mermaid
 graph TD;
-    Dev-->Wake-up;
-    Dev-->write-code;
-    Dev-->fix-bugs-repeat;
-    Dev-->FrustratedWithErrors;
+    A[Wake-up] -->|Coffee| B(write-code)
+    B --> C{fix-bugs-repeat}
+    C -->|One| D["Sleep"]
+    C -->|Two| E[FrustratedWithErrors]
+
 ``` 
 </details>
 <details>
