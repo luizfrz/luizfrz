@@ -1,11 +1,19 @@
 <a href="https://github.com/luizfrz"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fffff&height=180&section=header&text=Hey+there,+welcome+to+my+GitHub+profile&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/></a>
+![image](https://github.com/user-attachments/assets/8779f8c6-94e3-4f9e-a24d-bcde4add2aae)
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+</div>
 
 ## Resume
 <p align="left"> 
+
+ 
  My name is Luiz, and I'm currently studying Software Engineering. I'm interested in languages like Python, particularly for data analysis, as well as PHP for building databases (Python's also been helpful for that) and JavaScript. While my main focus isn't web development (front-end), I occasionally jump in to practice a bit.
 In my free time, I enjoy gaming, especially RPGs and action games, but I'm into all kinds of genres. I’m also fluent in English.
 This is just a quick overview of me. Feel free to check out my work on GitHub to see my projects :)
 </p>
+
 
 <h2 align="center">Main development ⚙️</h2>
 <p align="right">
@@ -26,11 +34,11 @@ print(tools[0])
 ```
    
 # Contact 
-<a href="Luizfranca2005@gmail.com"> <img src="https://i.gifer.com/Anm7.gif" height="30px" widht="3px"> </a>
+Email: **luizfranca2005@gmail.com**
 <br>
 <a href="https://www.linkedin.com/in/luiz-fran%C3%A7a-127262269/"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" widht="70px" height="70px" ></a> 
 
-**Portfolio:**  `
+**Portfolio:**  ``
 
 ## Hobby 
 **Playstation and Steam**
@@ -60,39 +68,3 @@ graph TD;
 
 ``` 
 </details>
-<details>
- <summary>3D Triangule </summary>
- 
-```stl
-solid cube_corner
-  facet normal 0.0 -1.0 0.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 1.0 0.0 0.0
-      vertex 0.0 0.0 1.0
-    endloop
-  endfacet
-  facet normal 0.0 0.0 -1.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 0.0 1.0 0.0
-      vertex 1.0 0.0 0.0
-    endloop
-  endfacet
-  facet normal -1.0 0.0 0.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 0.0 0.0 1.0
-      vertex 0.0 1.0 0.0
-    endloop
-  endfacet
-  facet normal 0.577 0.577 0.577
-    outer loop
-      vertex 1.0 0.0 0.0
-      vertex 0.0 1.0 0.0
-      vertex 0.0 0.0 1.0
-    endloop
-  endfacet
-endsolid
-
-```
