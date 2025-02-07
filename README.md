@@ -48,17 +48,15 @@ Email: **luizfranca2005@gmail.com**
 
 # My contributions 🏆
 
-<p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizfrz&theme=transparent"/>
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luizfrz&theme=transparent&utcOffset=-3"/>
-</p>  
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luizfrz&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<details>
-<summary>Dev Daily 💻</summary>
- 
+# Streak 🔥
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luizfrz&theme=dark&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
+</div>
+<br>
+
 ```mermaid
 graph TD;
     A[Wake-up] -->|Coffee| B(write-code)
@@ -66,5 +64,23 @@ graph TD;
     C -->|One| D["Sleep"]
     C -->|Two| E[FrustratedWithErrors]
 
-``` 
-</details>
+```
+
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/luizfrz/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/luizfrz/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/luizfrz/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+
