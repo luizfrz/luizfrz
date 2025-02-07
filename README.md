@@ -21,18 +21,18 @@ $languages = array(
  </div>
  
 ```Python
-tools = ["Git"]
+tools = ["Vscode", "Git", "pycharm", "workbench"]
 print(tools[0])
 ```
    
 # Contact 
+<a href="Luizfranca2005@gmail.com"> <img src="https://i.gifer.com/Anm7.gif" height="30px" widht="3px"> </a>
+<br>
+<a href="https://www.linkedin.com/in/luiz-fran%C3%A7a-127262269/"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" widht="70px" height="70px" ></a> 
 
-**Email:** `Luizfranca2005@gmail.com`
+**Portfolio:**  `
 
-**Linkedin:** `https://www.linkedin.com/in/luiz-fran%C3%A7a-127262269/`
-
-**Portfolio:** ` `
-
+## Hobby 
 **Playstation and Steam**
 <div id="icones">
 <a target="_blank" href="https://steamcommunity.com/user/hpvv-fttf/VBWHMKHG/?fbclid=PAZXh0bgNhZW0CMTEAAaZA8gNmufKhHLs6mXjHLORhn7MPFhYS_c0CG4ecBy5pdOkvuVW66a5EsDk_aem_tS2_USuyhEevqjznvxIczA" ><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGvuKJiVA1-WtJ81X8FDVFIsBQXGWzzxqzuA&s" height="50px" widht="50px"> </a> <a target="_blank" href="https://profile.playstation.com/Kazumi_Kiyomi/add" ><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/PlayStation_App_Icon.jpg" height="50px" widht="50px"> </a>
