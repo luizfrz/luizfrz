@@ -48,6 +48,11 @@ Email: **luizfranca2005@gmail.com**
 
 # My contributions 🏆
 
+<p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizfrz&theme=transparent"/>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luizfrz&theme=transparent&utcOffset=-3"/>
+</p>  
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luizfrz&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
@@ -65,9 +70,6 @@ graph TD;
     C -->|Two| E[FrustratedWithErrors]
 
 ```
-
-
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
