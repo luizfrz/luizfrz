@@ -55,9 +55,7 @@ print(tools)
 </div>
    
 # Contact 
-Email: **luizfranca2005@gmail.com**
-<br>
-<a href="https://www.linkedin.com/in/luiz-fran%C3%A7a-127262269/"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" widht="70px" height="70px" ></a> 
+<a href="luizfranca2005@gmail.com"><img src="https://i.pinimg.com/originals/47/0b/6f/470b6fc37093a3a1d9dbdc191cdab71b.gif" widht="50px" height="50px"></a>  <a href="https://www.linkedin.com/in/luiz-fran%C3%A7a-127262269/"><img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" widht="50px" height="50px" ></a> 
 
 **Portfolio:**  ``
 
