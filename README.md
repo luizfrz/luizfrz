@@ -25,15 +25,34 @@ This is just a quick overview of me. Feel free to check out my work on GitHub to
 $languages = array(
     "language" => "python",
     "language" => "PHP",
-    "language" => "javascript",
 );
 ```
  </div>
  
 ```Python
-tools = ["Vscode", "Git", "pycharm", "workbench"]
-print(tools[0])
+tools = ["Vscode", "Git", "pycharm", "MariaDB". "MongoDb","googlecloud"]
+print(tools)
 ```
+
+
+<div align="left">
+   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+      </a>
+    </td>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
+  <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" width="50" height="50">
+  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="50" height="50">
+  <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" width="50" height="50">
+  <img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" width="50" height="50">
+  <img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" height="50" widht="50"> 
+  <img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" height="50" widht="50">
+</div>
    
 # Contact 
 Email: **luizfranca2005@gmail.com**
@@ -72,6 +91,12 @@ graph TD;
     C -->|Two| E[FrustratedWithErrors]
 
 ```
+<div>
+
+## City contributions 🏙️
+<div align="center">
+<a href="https://honzaap.github.io/GithubCity/?name=luizfrz&year=2025"><img src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif"></a>
+</div>
 
 
 
