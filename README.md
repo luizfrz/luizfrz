@@ -5,12 +5,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 </div>
 
-
-
 ## Resume
 <p align="left"> 
-
- 
  My name is Luiz, and I'm currently studying Software Engineering. I'm interested in languages like Python, particularly for data analysis, as well as PHP for building databases (Python's also been helpful for that) and JavaScript. While my main focus isn't web development (front-end), I occasionally jump in to practice a bit.
 In my free time, I enjoy gaming, especially RPGs and action games, but I'm into all kinds of genres. I’m also fluent in English.
 This is just a quick overview of me. Feel free to check out my work on GitHub to see my projects :)
@@ -62,9 +58,8 @@ print(tools)
 # Contact 
 <a href="luizfranca2005@gmail.com"><img src="https://i.pinimg.com/originals/47/0b/6f/470b6fc37093a3a1d9dbdc191cdab71b.gif" widht="50px" height="50px"></a>  <a href="https://www.linkedin.com/in/luiz-fran%C3%A7a-127262269/"><img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" widht="50px" height="50px" ></a> 
 # Portfolio
- <img src="https://cdn.dribbble.com/userupload/28117148/file/original-c0db2041822a946b9529b5ae1fdf08e8.gif" height="60" widht="60">
+<a href=""> <img src="https://cdn.dribbble.com/userupload/28117148/file/original-c0db2041822a946b9529b5ae1fdf08e8.gif" height="60" widht="60"> </a>
  
- **LINK**:  
 
 ## Hobby 
 **Playstation and Steam**
@@ -81,14 +76,17 @@ print(tools)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luizfrz&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-# Streak 🔥
-
+<div>
+<h1> Streak <img src="https://media.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif" height="60px" width="60px" />
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luizfrz&theme=dark&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
 </div>
 
-```mermaid
+# Dev Routine 😒☕ 
+
+<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif">
+
+ ```mermaid
 graph TD;
     A[Wake-up] -->|Coffee| B(write-code)
     B --> C{fix-bugs-repeat}
