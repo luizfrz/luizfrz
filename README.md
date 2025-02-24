@@ -25,12 +25,13 @@ This is just a quick overview of me. Feel free to check out my work on GitHub to
 $languages = array(
     "language" => "python",
     "language" => "PHP",
+    "language" => "Javascript"
 );
 ```
  </div>
  
 ```Python
-tools = ["Vscode", "Git", "pycharm", "MariaDB". "MongoDb","Googlecloud"]
+tools = ["Vscode", "Git", "pycharm", "MariaDB". "MongoDb","Aws", "Mysql"]
 print(tools)
 ```
 
@@ -45,6 +46,7 @@ print(tools)
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" widht="12" height="40" alt="javascript" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
   <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" width="50" height="50">
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="50" height="50">
@@ -52,7 +54,9 @@ print(tools)
   <img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" width="50" height="50">
   <img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" height="50" widht="50"> 
  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" widht="12" height="40"  />
   <img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" height="50" widht="50">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="50" widht="50" />
 </div>
    
 # Contact 
