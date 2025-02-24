@@ -51,6 +51,7 @@ print(tools)
   <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" width="50" height="50">
   <img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" width="50" height="50">
   <img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" height="50" widht="50"> 
+ <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" height="50" widht="50">
 </div>
    
