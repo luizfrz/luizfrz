@@ -1,7 +1,10 @@
-<a href="https://github.com/luizfrz"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fffff&height=180&section=header&text=Hey+there,+welcome+to+my+GitHub+profile&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/></a>
+ <a href="https://github.com/luizfrz"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fffff&height=180&section=header&text=Hey+there,+welcome+to+my+GitHub+profile&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/></a>
+
 ![image](https://github.com/user-attachments/assets/8779f8c6-94e3-4f9e-a24d-bcde4add2aae)
 
 <div align="center">
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 </div>
 
@@ -83,8 +86,9 @@ print(tools)
 </div>
 
 # Dev Routine 😒☕ 
-
-<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif">
+<div align="center">
+<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" height="300px" widht="300px">
+</div>
 
  ```mermaid
 graph TD;
@@ -101,5 +105,9 @@ graph TD;
 <a href="https://honzaap.github.io/GithubCity/?name=luizfrz&year=2025"><img src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif"></a>
 </div>
 
+<div align="center">
+
+  ![github-user-contribution](https://github.com/user-attachments/assets/2dfe1509-bc37-4eda-8e2f-4467f166826b)
+</div>
 
 
