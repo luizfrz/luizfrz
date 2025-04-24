@@ -23,9 +23,9 @@ This is just a quick overview of me. Feel free to check out my work on GitHub to
  
 ```PHP
 $languages = array(
-    "language" => "python",
-    "language" => "PHP",
-    "language" => "Javascript"
+    "language1" => "python",
+    "language2" => "PHP",
+    "language3" => "Javascript"
 );
 ```
  </div>
