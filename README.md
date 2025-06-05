@@ -91,7 +91,7 @@ print(tools)
 graph TD;
     A[Wake-up] -->|Coffee| B(write-code)
     B --> C{fix-bugs-repeat}
-    C -->|One| D["Sleep"]
+    C -->|One| D["shit"]
     C -->|Two| E[FrustratedWithErrors]
 
 ```
