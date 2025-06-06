@@ -74,6 +74,8 @@ print(tools)
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luizfrz&theme=transparent&utcOffset=-3"/>
 </p>  
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luizfrz&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div>
@@ -111,4 +113,5 @@ graph TD;
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=10&color=16CA38&background=4BFF2D00&center=true&width=436&lines=01110000+01110010+01101001+;+01101110+01110100+00101000+;00100010+01101000+01100101;01101100+01101100+01101111+;01101101+01100101+00100000+;01110100+01101111+00100000+;01101101+01111001+00100000;01110000+01110010+01101111;01100100+00100000+01101101+;01111001+00100000+01110010+;01100101+01110000+01101111+;01110011+01101001+01110100+;01110010+01101001+01100101+;01110011+00100010+00101001+;01101111++01100110++01101111;Translating...;...;...;...;hello;welcome+to+my+profile;%3A)](https://git.io/typing-svg)
 </div>
+
 
