@@ -11,13 +11,11 @@
 
 ## Resume
 <p align="left"> 
- My name is Luiz, and I'm currently studying Software Engineering. I'm interested in languages like Python, particularly for data analysis, as well as PHP for building databases (Python's also been helpful for that) and JavaScript. While my main focus isn't web development (front-end), I occasionally jump in to practice a bit.
-In my free time, I enjoy gaming, especially RPGs and action games, but I'm into all kinds of genres. I’m also fluent in English.
-This is just a quick overview of me. Feel free to check out my work on GitHub to see my projects :)
+ My name is Luiz, and I'm currently studying Software Engineering. Feel free to check out my work on GitHub to see my projects :)
 </p>
 
 
-<h2 align="center">Main development ⚙️</h2>
+<h2 align="center">Main development</h2>
 <p align="right">
 <div>
  
@@ -31,10 +29,10 @@ $languages = array(
  </div>
  
 ```Python
-tools = ["Vscode", "Git", "pycharm", "MariaDB". "MongoDb","Aws", "Mysql"]
+tools = ["vscode", "git", "pycharm", "mariaDB", "mongoDb","mysql", "GIMP","postsql","dbeaver","Docker", "postman"]
 print(tools)
-```
 
+```
 
 <div align="left">
    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
@@ -84,7 +82,8 @@ print(tools)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luizfrz&theme=dark&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
 </div>
 
-# Dev Routine 😒☕ 
+# Dev Routine Like 
+
 <div align="center">
 <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" height="300px" widht="300px">
 </div>
@@ -99,7 +98,7 @@ graph TD;
 ```
 <div>
 
-## City contributions 🏙️
+## City contributions 
 <div align="center">
 <a href="https://honzaap.github.io/GithubCity/?name=luizfrz&year=2025"><img src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif"></a>
 </div>
