@@ -11,7 +11,7 @@
 
 ## Resume
 <p align="left"> 
- My name is Luiz, and I'm currently studying Software Engineering. Feel free to check out my work on GitHub to see my projects :)
+ My name is Luiz, and I'm currently studying Software Engineering. Feel free to check out my work on GitHub to see my projects! :)
 </p>
 
 
