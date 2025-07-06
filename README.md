@@ -37,28 +37,7 @@ print(tools)
 
 
 
-<div align="left">
-   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
-      </a>
-    </td>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" widht="12" height="40" alt="javascript" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
-  <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" width="50" height="50">
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="50" height="50">
-  <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" width="50" height="50">
-  <img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" width="50" height="50">
-  <img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" height="50" widht="50"> 
- <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" widht="12" height="40"  />
-  <img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" height="50" widht="50">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="50" widht="50" />
-</div>
+
    
 # Contact 
 <a href="luizfranca2005@gmail.com"><img src="https://i.pinimg.com/originals/47/0b/6f/470b6fc37093a3a1d9dbdc191cdab71b.gif" widht="50px" height="50px"></a>  <a href="https://www.linkedin.com/in/luiz-fran%C3%A7a-127262269/"><img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" widht="50px" height="50px" ></a> 
