@@ -30,10 +30,11 @@ $languages = array(
  </div>
  
 ```Python
-tools = ["vscode", "git", "pycharm", "mariaDB", "mongoDb","mysql", "GIMP","postsql","dbeaver","Docker", "postman"]
+tools = []
 print(tools)
-
 ```
+gimp, vscode, sql, php, laravel, docker 
+
 
 
 
