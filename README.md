@@ -65,22 +65,6 @@ gimp, vscode, sql, php, laravel, docker
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luizfrz&theme=dark&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
 </div>
 
-# Dev Routine Like 
-
-<div align="center">
-<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" height="300px" widht="300px">
-</div>
-
- ```mermaid
-graph TD;
-    A[Wake-up] -->|Coffee| B(write-code)
-    B --> C{fix-bugs-repeat}
-    C -->|One| D["shit"]
-    C -->|Two| E[FrustratedWithErrors]
-
-```
-<div>
-
 ## City contributions 
 <div align="center">
 <a href="https://honzaap.github.io/GithubCity/?name=luizfrz&year=2025"><img src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif"></a>
