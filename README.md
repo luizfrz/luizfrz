@@ -33,7 +33,19 @@ $languages = array(
 tools = []
 print(tools)
 ```
-gimp, vscode, sql, php, laravel, docker 
+
+<img src="https://imgs.search.brave.com/hX2zG87rg_OmvcYsroSAEYLEZRDsP-5NTqpsKkmKMFA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaWNvbi1pY29u/cy5jb20vMjQxNS9Q/TkcvNTEyL2dpbXBf/b3JpZ2luYWxfbG9n/b19pY29uXzE0NjUx/My5wbmc" height="50" widht="50"> 
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="50" widht="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  height="50" widht="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="50" widht="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50" widht="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" height="50" widht="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="50" widht="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"  height="50" widht="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"  height="50" widht="50" />
+          
+          
 
 
 
