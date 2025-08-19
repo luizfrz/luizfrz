@@ -34,9 +34,7 @@ tools = []
 print(tools)
 ```
 
-<img src="https://imgs.search.brave.com/hX2zG87rg_OmvcYsroSAEYLEZRDsP-5NTqpsKkmKMFA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaWNvbi1pY29u/cy5jb20vMjQxNS9Q/TkcvNTEyL2dpbXBf/b3JpZ2luYWxfbG9n/b19pY29uXzE0NjUx/My5wbmc" height="50" widht="50"> 
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="50" widht="50" />
+<img src="https://imgs.search.brave.com/hX2zG87rg_OmvcYsroSAEYLEZRDsP-5NTqpsKkmKMFA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaWNvbi1pY29u/cy5jb20vMjQxNS9Q/TkcvNTEyL2dpbXBf/b3JpZ2luYWxfbG9n/b19pY29uXzE0NjUx/My5wbmc" height="50" widht="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="50" widht="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  height="50" widht="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="50" widht="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50" widht="50" />
@@ -45,13 +43,7 @@ print(tools)
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"  height="50" widht="50" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"  height="50" widht="50" />
           
-          
-
-
-
-
-
-   
+    
 # Contact 
 <a href="luizfranca2005@gmail.com"><img src="https://i.pinimg.com/originals/47/0b/6f/470b6fc37093a3a1d9dbdc191cdab71b.gif" widht="50px" height="50px"></a>  <a href="https://www.linkedin.com/in/luiz-fran%C3%A7a-127262269/"><img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" widht="50px" height="50px" ></a> 
 ## Hobby 
