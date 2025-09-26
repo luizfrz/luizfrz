@@ -19,20 +19,6 @@
 <h2 align="center">Main development</h2>
 <p align="right">
 <div>
- 
-```PHP
-$languages = array(
-    "language1" => "python",
-    "language2" => "PHP",
-    "language3" => "Javascript"
-);
-```
- </div>
- 
-```Python
-tools = []
-print(tools)
-```
 
 <img src="https://imgs.search.brave.com/hX2zG87rg_OmvcYsroSAEYLEZRDsP-5NTqpsKkmKMFA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaWNvbi1pY29u/cy5jb20vMjQxNS9Q/TkcvNTEyL2dpbXBf/b3JpZ2luYWxfbG9n/b19pY29uXzE0NjUx/My5wbmc" height="50" widht="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="50" widht="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  height="50" widht="50" />
