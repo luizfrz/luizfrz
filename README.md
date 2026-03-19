@@ -55,11 +55,6 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luizfrz&theme=dark&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
 </div>
 
-## City contributions 
-<div align="center">
-<a href="https://honzaap.github.io/GithubCity/?name=luizfrz&year=2025"><img src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif"></a>
-</div>
-
 <div align="center">
 
   ![github-user-contribution](https://github.com/user-attachments/assets/2dfe1509-bc37-4eda-8e2f-4467f166826b)
