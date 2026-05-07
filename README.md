@@ -3,7 +3,11 @@
 <div align="center">
  
 <p align="left">  
- My name is Luiz, and I'm currently studying Software Engineering. Feel free to check out my work on GitHub to see my projects! :)        
+ Full-Stack Developer with experience in the PHP ecosystem (Laravel) and JavaScript (React/Next.js).
+Hands-on experience across the entire software development lifecycle, including quality assurance (QA),
+process automation, and system evolution. Focused on best practices such as SOLID principles, Clean
+Code, performance, and scalability. Proven experience in automation leading to significant productivity
+gains within teams     
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
