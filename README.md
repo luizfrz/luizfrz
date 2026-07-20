@@ -45,16 +45,3 @@ gains within teams
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div>
-<h1> Streak <img src="https://media.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif" height="60px" width="60px" />
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luizfrz&theme=dark&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
-</div>
-
-<div align="center">
-
-  ![github-user-contribution](https://github.com/user-attachments/assets/2dfe1509-bc37-4eda-8e2f-4467f166826b)
-</div>
-
-
-
-
