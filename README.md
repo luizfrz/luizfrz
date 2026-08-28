@@ -1,22 +1,4 @@
- <a href="https://github.com/luizfrz"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fffff&height=180&section=header&text=Hey+there,+welcome+to+my+GitHub+profile&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/></a>
-
-<div align="center">
- 
-<p align="left">  
- Full-Stack Developer with experience in the PHP ecosystem (Laravel) and JavaScript (React/Next.js).
-Hands-on experience across the entire software development lifecycle, including quality assurance (QA),
-process automation, and system evolution. Focused on best practices such as SOLID principles, Clean
-Code, performance, and scalability. Proven experience in automation leading to significant productivity
-gains within teams     
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
-</div>
-
-
-
-
-<h2 align="center">Main development</h2>
+<h2 align="center">Stacks </h2>
 <p align="right">
 <div>
 
@@ -30,8 +12,15 @@ gains within teams
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  height="50" widht="50"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"  height="50" widht="50"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" widht="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"  height="50" widht="50" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"   height="50" widht="50"  />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" height="50" widht="50"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ngrok/ngrok-original.svg" height="50" widht="50" />
+          
+          
+          
    
-# My contributions 🏆
+# Contributions 
 
 <p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizfrz&theme=transparent"/>
@@ -41,3 +30,4 @@ gains within teams
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div>
+
